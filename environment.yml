@@ -1,4 +1,4 @@
-name: example-environment
+name: graph-tool-environment
 channels:
   - ostrokach-forge
 dependencies:
