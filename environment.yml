@@ -1,7 +1,8 @@
 name: example-environment
 channels:
-  - conda-forge
+  - ostrokach-forge
 dependencies:
+  - graph-tool
   - numpy
   - psutil
   - toolz
